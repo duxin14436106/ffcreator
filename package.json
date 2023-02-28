@@ -10,7 +10,9 @@
   "description": "",
   "dependencies": {
     "colors": "^1.4.0",
-    "ffcreator": "^6.8.2"
+    "ffcreator": "^6.8.2",
+    "fs-extra": "^11.1.0",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "path": "^0.12.7"
